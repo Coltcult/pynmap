@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+ENV/
+dist/
+build/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs and reports
+*.log
+*.json
+*.html
+reports/
+logs/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# PyNmap specific
+scan_results_*/
+output/
