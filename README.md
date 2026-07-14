@@ -26,3 +26,8 @@ cd pynmap
 
 # Install dependencies
 pip install -r requirements.txt
+[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/Coltcult/pynmap)](https://github.com/Coltcult/pynmap/stargazers)
+[![Issues](https://img.shields.io/github/issues/Coltcult/pynmap)](https://github.com/Coltcult/pynmap/issues)
+[![Contributors](https://img.shields.io/github/contributors/Coltcult/pynmap)](https://github.com/Coltcult/pynmap/graphs/contributors)
